@@ -5,10 +5,10 @@ enum ConstantsLibre {
     static let defaultNonFixedSlopeEnabled = false
     
     /// is web oop enabled by default yes or no
-    static let defaultWebOOPEnabled = false
+    static let defaultWebOOPEnabled = true
     
     /// site for libreOOP client
-    static let site = "http://www.glucose.space"
+    static let site = "https://www.glucose.space"
     
     /// token to use to access site
     static let token = "bubble-201907"
